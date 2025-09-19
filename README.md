@@ -1,4 +1,4 @@
-# Student API - Sahil
+# Student API - Asheel
 
 ## How to Run Locally
 1. Run `npm install`
